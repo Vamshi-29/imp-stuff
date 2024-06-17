@@ -1,0 +1,17 @@
+pwd - gives the current path 
+cd - change directory 
+mkdir - make a folder 
+
+ls - gives the list of folders and files in that path 
+
+touch - make a file(txt,js,cpp etc...)
+touch file_name.(extension)
+
+cat - will give the content in that file
+cat file_name
+
+vi - editor (i - to write something
+             esc q!-to quit wq! to save and quit )
+mv source destinoation (Will move the file/folder to specified path)
+cp -r source destination (will copy the file/folder to specidfied path)
+ 
