@@ -14,4 +14,8 @@ vi - editor (i - to write something
              esc q!-to quit wq! to save and quit )
 mv source destinoation (Will move the file/folder to specified path)
 cp -r source destination (will copy the file/folder to specidfied path)
+
+cd .. (goes one path previous one step )
+cd ../.. (two path two steps )
+cd ../../..  and so on .......
  
