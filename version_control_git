@@ -1,0 +1,18 @@
+Version control systems !!
+
+VCS are basically the environment where you can make changes to your code etcc..
+advantages 
+1.Multiple people from different place can work on the same code 
+2.You can easily track the older vesrions of your project / application 
+3.Can easily track the changes made by others and who and what they made 
+4.You can opensource their project 
+
+VCS-are 2 types
+1.Centralized 
+Where Everyone can work on anything but if the server goes down thy can't acces to them 
+2.Decentralized 
+popular since even if the server goes down you can still work , You don't need internet to make changes locally 
+in order to make globally you need 
+EXAMPLE: GIT , Mercurial 
+GIT is famous :
+Free , opensource scalable , super fast , cheap branching and forking 
